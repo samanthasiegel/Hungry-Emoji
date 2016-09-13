@@ -1,0 +1,17 @@
+/Users/cshaviro/Documents/DIS/Game Development/Lab 03/Hungry Hungry Emoji/Temp/bin/Debug/UnityEngine.dll
+/Users/cshaviro/Documents/DIS/Game Development/Lab 03/Hungry Hungry Emoji/Temp/bin/Debug/UnityEditor.dll
+/Users/cshaviro/Documents/DIS/Game Development/Lab 03/Hungry Hungry Emoji/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/cshaviro/Documents/DIS/Game Development/Lab 03/Hungry Hungry Emoji/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/cshaviro/Documents/DIS/Game Development/Lab 03/Hungry Hungry Emoji/Temp/bin/Debug/Mono.Cecil.dll
+/Users/cshaviro/Documents/DIS/Game Development/Lab 03/Hungry Hungry Emoji/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/cshaviro/Documents/DIS/Game Development/Lab 03/Hungry Hungry Emoji/Temp/bin/Debug/Unity.DataContract.dll
+/Users/cshaviro/Documents/DIS/Game Development/Lab 03/Hungry Hungry Emoji/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/cshaviro/Documents/DIS/Game Development/Lab 03/Hungry Hungry Emoji/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/cshaviro/Documents/DIS/Game Development/Lab 03/Hungry Hungry Emoji/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/cshaviro/Documents/DIS/Game Development/Lab 03/Hungry Hungry Emoji/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/cshaviro/Documents/DIS/Game Development/Lab 03/Hungry Hungry Emoji/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/cshaviro/Documents/DIS/Game Development/Lab 03/Hungry Hungry Emoji/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/cshaviro/Documents/DIS/Game Development/Lab 03/Hungry Hungry Emoji/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/cshaviro/Documents/DIS/Game Development/Lab 03/Hungry Hungry Emoji/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/cshaviro/Documents/DIS/Game Development/Lab 03/Hungry Hungry Emoji/obj/Debug/Assembly-CSharp.dll
+/Users/cshaviro/Documents/DIS/Game Development/Lab 03/Hungry Hungry Emoji/obj/Debug/Assembly-CSharp.dll.mdb
